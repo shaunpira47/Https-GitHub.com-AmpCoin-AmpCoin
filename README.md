@@ -3,10 +3,7 @@ Ampcoin
 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are created regularly to indicate new official, stable release versions of Ampcoin Core.
 
-The contribution workflow is described in CONTRIBUTING.md and useful hints for developers can be found in doc/developer-notes.md.
-
 The developer mailing list should be used to discuss complicated or controversial changes before working on a patch set.
-
 
 Testing
 Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and help out by testing other people's pull requests, and remember this is a security-critical project where any mistake might cost people lots of money.
